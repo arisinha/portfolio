@@ -27114,7 +27114,7 @@ var _stylesCss = require("./styles.css");
     title: "Software Engineer",
     email: "nelson_segoviano@hotmail.com",
     gitHub: "arisinha",
-    instagram: "@slashDaytona",
+    instagram: "@slashdaytona",
     twitter: "@arisinnha"
 };
 const primaryColor = "#4E567E";
@@ -28789,7 +28789,7 @@ const imageAltText = "desktop with books and laptop";
     {
         title: "My Portfolio Website",
         description: "This portfolio website is built using React and showcases my skills, projects, and experiences. It is designed to be responsive and user-friendly.",
-        url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website"
+        url: "https://github.com/arisinha/portfolio"
     }, 
 ];
 const Portfolio = ()=>{
