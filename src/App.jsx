@@ -28,7 +28,7 @@ const siteProps = {
   title: "Software Engineer",
   email: "nelson_segoviano@hotmail.com",
   gitHub: "arisinha",
-  instagram: "@slashdaytona",
+  instagram: "slashdaytona",
   twitter: "@arisinnha",
 };
 
