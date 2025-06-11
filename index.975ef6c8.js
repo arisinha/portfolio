@@ -27114,7 +27114,7 @@ var _stylesCss = require("./styles.css");
     title: "Software Engineer",
     email: "nelson_segoviano@hotmail.com",
     gitHub: "arisinha",
-    instagram: "@slashdaytona",
+    instagram: "slashdaytona",
     twitter: "@arisinnha"
 };
 const primaryColor = "#4E567E";
