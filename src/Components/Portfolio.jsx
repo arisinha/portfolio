@@ -46,7 +46,7 @@ const projectList = [
     title: "My Portfolio Website",
     description:
       "This portfolio website is built using React and showcases my skills, projects, and experiences. It is designed to be responsive and user-friendly.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://github.com/arisinha/portfolio",
   },
 ];
 
