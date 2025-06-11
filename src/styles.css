@@ -140,16 +140,73 @@ img.socialIcon {
 .slide-in-left {
   animation: slideInLeft 0.8s ease-out forwards;
 }
-img, .container {
+img {
   max-width: 100%;
   height: auto;
 }
 
+@media (max-width: 900px) {
+  h1 {
+    font-size: 4rem;
+  }
+  .container {
+    grid-template-columns: 1fr;
+    margin: 10px;
+  }
+  section.padding {
+    padding: 2.5rem 0;
+  }
+}
+
 @media (max-width: 600px) {
+    .container {
+    width: 100%;
+    grid-template-columns: 1fr;
+    grid-gap: 12px;
+    margin: 8px 0;
+  }
   body {
     font-size: 16px;
   }
   .navbar {
     flex-direction: column;
+  }
+  h1 {
+    font-size: 2.5rem;
+  }
+  h2 {
+    font-size: 1.25rem;
+  }
+  h3 {
+    font-size: 1rem;
+  }
+  p {
+    font-size: 16px;
+  }
+  p.large {
+    font-size: 18px;
+  }
+  p.small {
+    font-size: 13px;
+  }
+  section.padding {
+    padding: 1.5rem 0;
+  }
+  .container {
+    grid-template-columns: 1fr;
+    grid-gap: 12px;
+    margin: 8px;
+  }
+  .container .box {
+    padding: 16px 8px;
+  }
+  section img.background {
+    width: 100vw;
+  }
+  #about ul {
+    columns: 1 !important;
+    margin: 1rem 0 !important;
+    font-size: 1rem !important;
+    padding: 0 1rem !important;
   }
 }
