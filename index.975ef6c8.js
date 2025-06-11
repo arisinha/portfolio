@@ -27217,7 +27217,7 @@ const imageAltText = "purple and blue abstract background";
     "Web design",
     "User experience",
     "Focus group testing",
-    "Graphic design", 
+    "Graphic design"
 ];
 /**
  * Use this to give more information about what you are passionate about,
@@ -27235,7 +27235,7 @@ const About = ()=>{
                 alt: imageAltText
             }, void 0, false, {
                 fileName: "src/Components/About.jsx",
-                lineNumber: 51,
+                lineNumber: 46,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -27251,7 +27251,7 @@ const About = ()=>{
                         children: "About Myself"
                     }, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 61,
+                        lineNumber: 56,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -27259,12 +27259,12 @@ const About = ()=>{
                         children: description
                     }, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 62,
+                        lineNumber: 57,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("hr", {}, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 63,
+                        lineNumber: 58,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("ul", {
@@ -27279,17 +27279,17 @@ const About = ()=>{
                                 children: skill
                             }, skill, false, {
                                 fileName: "src/Components/About.jsx",
-                                lineNumber: 74,
+                                lineNumber: 69,
                                 columnNumber: 13
                             }, undefined))
                     }, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 64,
+                        lineNumber: 59,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("hr", {}, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 77,
+                        lineNumber: 72,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -27299,19 +27299,19 @@ const About = ()=>{
                         children: detailOrQuote
                     }, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 78,
+                        lineNumber: 73,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/Components/About.jsx",
-                lineNumber: 52,
+                lineNumber: 47,
                 columnNumber: 7
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/Components/About.jsx",
-        lineNumber: 50,
+        lineNumber: 45,
         columnNumber: 5
     }, undefined);
 };
