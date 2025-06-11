@@ -31,28 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "BookBase",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "An online free book Library, built in Python using FastAPI and Html/CSS/Javascript. It allows users to search for books, view details, and download them.",
+    url: "https://github.com/PGPLAYER15/bookbase",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Uniformly Accelerated Rectilinear Motion Simulator",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A web application built with Canvas.Js that simulates uniformly accelerated rectilinear motion. It allows users to input initial velocity, acceleration, and time to visualize the motion of an object.",
+    url: "https://github.com/PGPLAYER15/Simulador-MRU",
   },
   {
-    title: "My Resume Site",
+    title: "My Portfolio Website",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+      "This portfolio website is built using React and showcases my skills, projects, and experiences. It is designed to be responsive and user-friendly.",
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
   },
 ];
 
