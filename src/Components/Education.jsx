@@ -4,7 +4,7 @@ const Education = () => {
     <section className="padding" id="education">
       <h2 style={{ textAlign: "center" }}>Education</h2>
       <div style={{ display: "flex", flexDirection: "column", paddingTop: "3rem" }}>
-        <div style={{ marginBottom: "2rem" }}>
+        <div style={{ marginBottom: "2rem", textAlign: "center" }}>
           <h3>Universidad Autonoma de Occidente</h3>
           <p>Software Engineering Student</p>
         </div>
