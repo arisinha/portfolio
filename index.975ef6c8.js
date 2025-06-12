@@ -28949,7 +28949,8 @@ const Education = ()=>{
                 },
                 children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                     style: {
-                        marginBottom: "2rem"
+                        marginBottom: "2rem",
+                        textAlign: "center"
                     },
                     children: [
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h3", {
